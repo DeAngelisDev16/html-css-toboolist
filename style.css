@@ -47,6 +47,37 @@ main{
     background-color: white;
     color: lightgray;
 }
+
+.task_section{
+    margin-left: 2rem;
+    margin-top: 2rem;
+    font-family: 'Arial',  sans-serif;
+}
+
+.space{
+    margin-top: 0.5rem ;
+    font-weight: 500;
+}
+
+.new_task{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.check{
+    border: 0.1rem solid green;
+    border-radius: 50%;
+    padding: 0.2rem;
+    color: green;
+}
+
+.editorial{
+    background-color: #66ccff;
+    color: white;
+    padding: 0.4rem;
+    border-radius: 10px;
+    font-size: 0.7rem;
+}
     
     
 
