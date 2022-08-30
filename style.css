@@ -114,6 +114,24 @@ main{
     font-size: 0.7rem;
 
 }
+
+#website{
+    background-color: #f542a7;
+    color: white;
+    padding: 0.4rem;
+    border-radius: 10px;
+    font-size: 0.7rem;
+}
+
+#sales{
+    background-color: #adf542;
+    color: white;
+    padding: 0.4rem;
+    border-radius: 10px;
+    font-size: 0.7rem;
+
+}
+
     
 
     
